@@ -21,7 +21,7 @@ body {
 }
 
 #landing {
-  background-image: url("landing_image_6.jpg");
+  background-image: url("/landing_image_6.jpg");
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -290,7 +290,7 @@ body {
 }
 
 #contactme {
-  background-image: url("landing_image_2.jpg");
+  background-image: url("/landing_image_2.jpg");
   background-position: center;
   position: fixed;
   background-repeat: no-repeat;
