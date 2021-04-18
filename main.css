@@ -21,7 +21,7 @@ body {
 }
 
 #landing {
-  background-image: url("https://Michael-T-Nguyen/Michael-Nguyen-WebPortfolio.github.io/landing_image_6.jpg");
+  background-image: url("https://michael-t-nguyen.github.io/Michael-Nguyen-WebPortfolio.github.io/landing_image_6.jpg");
   background-color: #000;
   background-position: center center;
   background-attachment: fixed;
@@ -291,7 +291,7 @@ body {
 }
 
 #contactme {
-  background-image: url("../landing_image_2.jpg");
+  background-image: url("https://michael-t-nguyen.github.io/Michael-Nguyen-WebPortfolio.github.io/landing_image_2.jpg");
   background-position: center;
   position: fixed;
   background-repeat: no-repeat;
